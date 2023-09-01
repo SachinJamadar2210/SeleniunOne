@@ -1,0 +1,52 @@
+Test Case 1
+Open the site -https://www.amazon.in/
+close
+=========================================
+Test Case 2
+Open the site -https://www.amazon.in/
+set the window size
+close
+=========================================
+Test Case 3
+Store the Title
+Display Stored Title
+close
+=========================================
+Test Case 4
+Verfiy the UserName
+verify the Password
+click login 
+close
+==========================================
+Test Case 5
+Store the Title
+Display Stored Title
+Assert the title
+close
+==========================================
+Test Case 6
+Clik on Mobiles
+Click on Smartphones & Basic Mobiles
+close
+==========================================
+Test Case 7
+Click on Samsung Galaxy M13 
+Store the Text 
+Assert the Text
+close
+==========================================
+Test Case 8
+open the site -https://www.amazon.in/s?bbn
+Store the title
+and click on Smartphones & Basic Mobiles
+Assert both the titles
+==========================================
+Test Case 9
+open site-https://www.amazon.in/s?bbn
+Come back to the main site
+check the whether the page is same
+==========================================
+Test Case 10
+check the sign in options 
+close
+
